@@ -17,7 +17,7 @@ If you have any questions or feedback, feel free to [![Join the chat at https://
 ### Latest Alpha Version
 
 [![Download from https://github.com/OpenIntelWireless/HeliPort/releases](https://img.shields.io/github/v/release/OpenIntelWireless/HeliPort?include_prereleases&label=Download)](https://github.com/OpenIntelWireless/HeliPort/releases)
-
+for
 ## Status
 
 The App is currently functional, we're still trying make it even better.
