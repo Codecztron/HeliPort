@@ -25,7 +25,7 @@ The App is currently functional, we're still trying make it even better.
 ### To-Do's
 
 Visit [Projects](https://github.com/OpenIntelWireless/HeliPort/projects) for more information
-
+for
 ## Issues
 
 Issues for this project are for bug tracking only, please carefully fill in all the blanks in the correct Issue Template.
